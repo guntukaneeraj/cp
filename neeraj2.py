@@ -1,6 +1,6 @@
 #Maximum Binary Tree
 class Solution:
-    def constructMaximumBinaryTree(self, nums:
+    def constructMaximumBinaryTree(self, nums)
         if len(nums)==0:
             return
         else:
